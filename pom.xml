@@ -12,7 +12,7 @@
 
     <modules>
         <module>b1</module>
-        <module>b2</module>
+        <module>b2/app</module>
     </modules>
 
     <properties>
