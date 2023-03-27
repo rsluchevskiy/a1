@@ -59,7 +59,9 @@ import com.alibaba.fastjson.util.TypeUtils;
  * </pre>
  * 
  * @see com.alibaba.fastjson.TypeReference
- * 
+ * @see com.alibaba.fastjson.TypeReference
+ * @see com.alibaba.fastjson.TypeReference
+ *
  * @author wenshao[szujobs@hotmail.com]
  */
 public abstract class JSON implements JSONStreamAware, JSONAware {
